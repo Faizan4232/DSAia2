@@ -1,2 +1,1 @@
-# DSAia2
-15 questions
+# DSAIA2
