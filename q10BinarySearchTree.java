@@ -28,13 +28,9 @@ class Node {
 public class q10BinarySearchTree {
 
     Node root;
-
-    // Constructor
     q10BinarySearchTree() {
         root = null;
     }
-
-    // Method to insert a new key
     void insert(int key) {
         root = insertRec(root, key);
     }
